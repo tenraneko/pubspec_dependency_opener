@@ -8,8 +8,6 @@ Open package by click in pubspec.yaml file.
 
 ![feature-1](/images/feature-1.png)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
 ## Requirements
 
 VSCode
