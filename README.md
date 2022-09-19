@@ -6,7 +6,7 @@ The extention helps to open the package in the browser in one click
 
 Open package by click in pubspec.yaml file.
 
-![feature-1](/images/feature-1.png)
+![feature-1](/images/feature-1-1.png)
 
 ## Requirements
 
