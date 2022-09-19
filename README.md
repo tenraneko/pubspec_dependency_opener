@@ -6,7 +6,7 @@ The extention helps to open the package in the browser in one click
 
 Open package by click in pubspec.yaml file.
 
-\!\[feature X\]\(images/feature-1.png\)
+![feature-1](/images/feature-1.png)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
