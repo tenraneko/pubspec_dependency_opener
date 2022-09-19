@@ -2,10 +2,12 @@
   "name": "pubspec-dependency-opener",
   "displayName": "Pubspec Dependency Opener",
   "description": "The extention helps to open the package in the browser in one click",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
+  "publisher": "TenraNeko",
+  "icon": "images/icon.png",
   "engines": {
-    "vscode": "^1.32.0"
+    "vscode": "^1.71.0"
   },
   "categories": [
     "Other"
